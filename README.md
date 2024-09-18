@@ -5,4 +5,4 @@ FEATURES:
   You can save a game using the button in the top right corner and load it back using the load button.
   If you click on the scoreboard in the top left you get an expanded scoreboard with a round-by-round breakdown as well as more menu options.
 TO RUN:
-  You must have the python file in a folder with a subfolder of the card images, a folder called saves,
+  You must have the python file in a folder with a subfolder of the card images and a subfolder called saves.
