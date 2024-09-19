@@ -1,5 +1,7 @@
 """
 Tommy Aitchison & Oswin Shin
+Tommy Aitchison made classes, graphics, logic, comments, ect.
+Oswin Shin set background color and wrote out rules.
 Hearts Game
 11-17-23 - skeleton classes with generic methods
 11-20-23 - basic gui
@@ -15,6 +17,7 @@ Hearts Game
 12-1-23 - implemented stack_cards method
 12-2-23 - implemented EndGame window
 12-4-23 - bug fixes
+9-19-24 - minor comment updates and bug fixes on Windows version.
 
 Funcions without a painfully obvious purpose have a comment noting purpose
 
