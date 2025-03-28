@@ -8,5 +8,8 @@ FEATURES:
   If you click on the scoreboard at the top left, you will get an expanded scoreboard with a round-by-round breakdown and more menu options.
   
 TO RUN:
-
-  You must have the Python file in a folder with a subfolder of the card images and a subfolder called saves.
+  From release:
+    You can download the Windows or Apple Silicon releases from the right pane, and the setup will be just like an app from the app store.
+  Manual:
+    You must have the Python file in a folder with a subfolder of the card images and a subfolder called saves.
+  
