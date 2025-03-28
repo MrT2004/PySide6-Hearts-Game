@@ -10,7 +10,7 @@ FEATURES:
 TO RUN:
 
   From release:
-    You can download the Windows or Apple Silicon releases from the right pane, and the setup will be just like an app from the app store.
+    You can download the Windows or Apple Silicon releases from the right pane, and the setup will be like you are used to for other applications.
     
   Manual:
     You must have the Python file in a folder with a subfolder of the card images and a subfolder called saves.
