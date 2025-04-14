@@ -14,7 +14,9 @@ TO RUN:
 
   Windows release:
     You can download the Windows release from the right pane. You will need to:
+    
     1. extract the contents of hearts.zip by right clicking it and clicking "Extract All"
+    
     2. Open the extracted hearts folder and double click on hearts.exe
     
   Manual:
